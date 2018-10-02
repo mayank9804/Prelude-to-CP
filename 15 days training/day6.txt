@@ -1,0 +1,43 @@
+Dear Friends, 
+
+
+
+Complete all the 5 questions of the contest on hackerrank. Also, try to complete all the questions discussed in class as well as given in the assignment of week 1 and clear all your doubts of those concepts till this Wednesday.
+
+
+Questions discussed in class:
+
+Stairs: https://www.interviewbit.com/problems/stairs/ 
+
+Number of Ways to Decode: https://www.interviewbit.com/problems/ways-to-decode/ 
+
+Rod Cutting: https://practice.geeksforgeeks.org/problems/rod-cutting/0/?track=Placement 
+
+
+Practice Problem:
+
+
+
+Easy:
+
+Tiling Problem: https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor/0 
+
+Count Hops: https://practice.geeksforgeeks.org/problems/count-number-of-hops/0/?track=Placement 
+
+Sparse Number: https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not/0/?track=Placement 
+
+
+
+Medium:
+
+Special Keyboard Question: https://practice.geeksforgeeks.org/problems/special-keyboard/0 
+
+Rearrange Characters: https://practice.geeksforgeeks.org/problems/rearrange-characters/0/?track=Placement 
+
+Print Bracket Number: https://practice.geeksforgeeks.org/problems/print-bracket-number/0/?track=Placement 
+
+
+
+Hard: Reach a given score: https://practice.geeksforgeeks.org/problems/reach-a-given-score/0 
+
+

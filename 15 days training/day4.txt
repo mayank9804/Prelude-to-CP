@@ -1,0 +1,41 @@
+Questions discussed in class:
+
+(done)Reverse a doubly linked list: https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1 
+
+(done)Reverse Digits: https://www.interviewbit.com/problems/reverse-bits/ 
+
+(done)Check if power of 2: https://practice.geeksforgeeks.org/problems/power-of-2/0/?track=Placement 
+
+Number of different bits in two numbers: https://www.interviewbit.com/problems/different-bits-sum-pairwise/ 
+
+Missing number: https://www.interviewbit.com/problems/single-number/ 
+
+Find 2 missing numbers: https://practice.geeksforgeeks.org/problems/finding-the-numbers/0 
+
+Subset using bitmask: https://www.interviewbit.com/problems/subset/ 
+
+Median of 2 sorted arrays.
+
+HeapSort: https://practice.geeksforgeeks.org/problems/heap-sort/1
+
+
+
+Problem for practice
+
+Easy
+
+https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monks-choice-of-numbers-1/ 
+
+https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/haaaave-you-met-ted/ 
+
+Medium:
+
+Number appearing once: https://www.interviewbit.com/problems/single-number-ii/ 
+
+Bleak Numbers: https://practice.geeksforgeeks.org/problems/bleak-numbers/0/?track=Placement 
+
+Count Reversals: https://practice.geeksforgeeks.org/problems/count-the-reversals/0 
+
+Difficult:
+
+Divide integers without multiplication, division and modulus: https://www.interviewbit.com/problems/divide-integers/ 

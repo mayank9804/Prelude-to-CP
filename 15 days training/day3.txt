@@ -1,0 +1,59 @@
+Questions discussed in class:
+
+Parenthesis Checker: https://practice.geeksforgeeks.org/problems/parenthesis-checker/0 
+
+Simplify Directory Traversal: https://www.interviewbit.com/problems/simplify-directory-path/ 
+
+Stack with min: https://www.interviewbit.com/problems/min-stack/ 
+
+Trapping Rain Water: https://practice.geeksforgeeks.org/problems/trapping-rain-water/0 
+
+Stack using 2 queues: https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
+
+Queue using 2 stacks: https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+
+Tour to visit all petrol pumps: https://practice.geeksforgeeks.org/problems/circular-tour/1 
+
+Cycle in Linked List: https://www.interviewbit.com/problems/list-cycle/
+
+Find middle element: https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1 
+
+Merge Two Sorted Lists: https://www.interviewbit.com/problems/merge-two-sorted-lists/
+
+Reverse a linked list: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1 
+
+Remove nth node from end: https://www.interviewbit.com/problems/remove-nth-node-from-list-end/ 
+x
+Flatten a linked list: https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1
+
+Clone linked list with random pointers: https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1/?track=Placement
+
+
+Problem for practice
+
+Easy
+
+Partition List: https://www.interviewbit.com/problems/partition-list/ 
+
+Find length of loop in linked list: https://practice.geeksforgeeks.org/problems/find-length-of-loop/1/?track=Placement 
+
+Redundant braces: https://www.interviewbit.com/problems/redundant-braces/ 
+
+Medium:
+
+Intersection Point in Y-shaped linked list: https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1 
+
+Add 2 numbers as linked list: https://www.interviewbit.com/problems/add-two-numbers-as-lists/ 
+
+Infix to Postfix: https://practice.geeksforgeeks.org/problems/infix-to-postfix/0 
+
+Evaluate Postfix: https://www.interviewbit.com/problems/evaluate-expression/ 
+
+Difficult:
+
+Rotten Oranges: https://practice.geeksforgeeks.org/problems/rotten-oranges/0
+
+Max Area in Histogram: https://www.interviewbit.com/problems/largest-rectangle-in-histogram/ 
+
+
+

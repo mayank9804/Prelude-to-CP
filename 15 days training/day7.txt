@@ -1,0 +1,67 @@
+Questions discussed in class:
+
+Stock Buying And Selling: https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/ 
+
+https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/ 
+
+Kadane: https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0 
+
+Minimum Sum Path: https://www.interviewbit.com/problems/min-sum-path-in-matrix/ 
+
+Count paths: https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0 
+
+LIS: https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0 
+
+Longest Bitonic Sequence: https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence/0 
+
+
+Reading Material for next class (Must do as these problem will be discussed only briefly in class):
+
+Longest Common Subsequence: https://www.geeksforgeeks.org/longest-common-subsequence/ 
+
+Longest Common Substring: https://www.geeksforgeeks.org/longest-common-substring/ 
+
+0/1 Knapsack: https://www.geeksforgeeks.org/knapsack-problem/ 
+
+LIS in O(NlogN): https://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/ 
+
+
+Some people said that they are having problem with understanding recursion. For them, here i have added some easy problems on recursion:
+
+Print all possible Strings https://practice.geeksforgeeks.org/problems/print-all-possible-strings/1
+
+Print 1 to n without using loop https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops/0
+
+Reverse digits of a number https://practice.geeksforgeeks.org/problems/reverse-digit/0
+
+Tower of Hanoi https://practice.geeksforgeeks.org/problems/help-the-old-man/0
+
+Number of possible paths https://practice.geeksforgeeks.org/problems/number-of-paths/0
+
+
+Practice Problem:
+
+Easy:
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-coin-collection-2/ 
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-ropes/ 
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-chocolates-bars-2/ 
+
+Medium:
+
+Longest Valid Paranthesis: https://www.interviewbit.com/problems/longest-valid-parentheses/ 
+
+Coin Change: https://practice.geeksforgeeks.org/problems/coin-change/0 
+
+http://codeforces.com/problemset/problem/855/B 
+
+http://codeforces.com/contest/474/problem/D 
+
+Hard:
+
+http://codeforces.com/contest/67/problem/D 
+
+Median of 2 sorted arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/ 
+

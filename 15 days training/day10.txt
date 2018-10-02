@@ -1,0 +1,45 @@
+Questions discussed in class:
+
+Convert Tree to dll: https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1 
+
+Serialize and deserialize: https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1 
+
+BST: Insertion: https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1 
+
+BST: Deletion: https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1 
+
+Sorted Array to BST: https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/ 
+
+Check BST: https://practice.geeksforgeeks.org/problems/check-for-bst/1 
+
+Kth smallest element in BST: https://www.interviewbit.com/problems/kth-smallest-element-in-tree/ 
+
+Check sum in BST: https://www.interviewbit.com/problems/2sum-binary-tree/ 
+
+LCA in BST: https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1 
+
+Merge Two BSTs: https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
+
+
+Practice Problems:
+
+Easy:
+
+https://www.interviewbit.com/problems/balanced-binary-tree/ 
+
+https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0 
+
+Medium:
+
+Find swapped nodes: https://www.interviewbit.com/problems/recover-binary-search-tree/ 
+
+Delete nodes in BST >k: https://practice.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1 
+
+Largest BST in a BT: https://practice.geeksforgeeks.org/problems/largest-bst/1 
+
+https://www.interviewbit.com/problems/dungeon-princess/ 
+
+https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/ 
+
+https://leetcode.com/problems/convert-bst-to-greater-tree/description/ 
+

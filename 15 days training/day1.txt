@@ -1,0 +1,78 @@
+Frequency: https://practice.geeksforgeeks.org/problems/number-of-occurrence/0 
+Find peak element: https://practice.geeksforgeeks.org/problems/find-the-highest-number/0
+Minimum element in sorted and rotated array: https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0
+Square root: https://practice.geeksforgeeks.org/problems/count-squares/0 
+Magnet Problem: https://practice.geeksforgeeks.org/problems/magnet-array-problem/0
+Search in matrix: https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
+
+Merge Sort: https://practice.geeksforgeeks.org/problems/merge-sort/1
+(done*)Check if array contains continuous numbers: https://practice.geeksforgeeks.org/problems/check-if-array-contains-contiguous-integers-with-duplicates-allowed/0
+Chocolate Distribution Problem: https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
+Quick Sort: https://practice.geeksforgeeks.org/problems/quick-sort/1
+
+Relative Sort: 
+https://www.geeksforgeeks.org/sorting-array-according-another-array-using-pair-stl/ 
+https://practice.geeksforgeeks.org/problems/relative-sorting/0
+
+Find pair with given difference: https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0/
+Triplet Sum: https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Questions discussed in class:
+
+Count occurence of element in sorted array: https://practice.geeksforgeeks.org/problems/number-of-occurrence/0 
+
+Find peak element: https://practice.geeksforgeeks.org/problems/find-the-highest-number/0
+
+Minimum element in sorted and rotated array: https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0
+
+Square root: https://practice.geeksforgeeks.org/problems/count-squares/0 
+
+Search in matrix: https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
+
+Merge Sort: https://practice.geeksforgeeks.org/problems/merge-sort/1
+
+Check if array contains continuous numbers: https://practice.geeksforgeeks.org/problems/check-if-array-contains-contiguous-integers-with-duplicates-allowed/0
+
+Chocolate Distribution Problem: https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
+
+Quick Sort: https://practice.geeksforgeeks.org/problems/quick-sort/1
+
+Relative sort: https://practice.geeksforgeeks.org/problems/relative-sorting/0
+
+Find pair with given difference: https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0/
+
+Triplet Sum: https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0
+
+
+Problem for Practice:
+
+Easy: 
+
+Triplet with max sum: https://practice.geeksforgeeks.org/problems/three-great-candidates/0
+
+Triplet with max product: https://practice.geeksforgeeks.org/problems/three-great-candidates/0 
+
+
+
+Medium level of difficulty:
+
+Find extra element: https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1
+
+Magnet Problem: https://practice.geeksforgeeks.org/problems/magnet-array-problem/0
+
+Sort in specific order: https://practice.geeksforgeeks.org/problems/sort-in-specific-order/0
+
+Max Distance: https://www.interviewbit.com/problems/max-distance/ 
+
+
+
+Competitive Programming Type (Attempt only if time is available, complete above problems first)
+
+http://codeforces.com/problemset/problem/768/A 
+
+http://codeforces.com/problemset/problem/558/A 
+
+http://codeforces.com/problemset/problem/778/A
+
+http://codeforces.com/problemset/problem/479/C 

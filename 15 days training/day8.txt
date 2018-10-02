@@ -1,0 +1,42 @@
+Questions discussed in class:
+
+0/1 Knapsack: https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0 
+
+Subset Sum: https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0
+
+Longest Common Subsequence: https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0 
+
+Longest Palindromic Subsequence: https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0 
+
+Regex Match 1: https://www.interviewbit.com/problems/regular-expression-match/ 
+
+Edit Distance: https://www.interviewbit.com/problems/edit-distance/ 
+
+Chain Matrix Multiplication: https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0 
+
+Rod Cutting: https://www.interviewbit.com/problems/rod-cutting/ 
+
+
+Practice Problem:
+
+Easy:
+
+Minimum Deletions to Make string palindrome: https://practice.geeksforgeeks.org/problems/minimum-deletitions/0 
+
+Minimum Jumps to reach end: https://www.interviewbit.com/problems/min-jumps-array/ 
+
+Medium:
+
+Regex Match 2: https://www.interviewbit.com/problems/regular-expression-ii/ 
+
+Ways to make expression true: https://www.interviewbit.com/problems/evaluate-expression-to-true/ 
+
+Egg Drop Puzzle: https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0 
+
+https://www.interviewbit.com/problems/flip-array/ 
+
+https://www.interviewbit.com/problems/interleaving-strings/ 
+
+Hard:
+
+Max Rectangle in Binary Matrix: https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/

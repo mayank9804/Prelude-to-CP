@@ -1,0 +1,45 @@
+Questions discussed in class:
+
+DFS: https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
+
+BFS: https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 
+
+Detect cycle in undirected graph: https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/?track=Placement 
+
+Check if graph is bipartite: https://leetcode.com/problems/is-graph-bipartite/description/ 
+
+Number of islands: https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1 
+
+Knight Walk: https://www.interviewbit.com/problems/knight-on-chess-board/ 
+
+Rotten Oranges: https://practice.geeksforgeeks.org/problems/rotten-oranges/0 
+
+
+Practice Problems:
+
+Easy:
+
+https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/0 
+
+Check Path: https://practice.geeksforgeeks.org/problems/find-whether-path-exist/0 
+
+https://www.interviewbit.com/problems/black-shapes/ 
+
+Matrix in spiral order: https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0 
+
+https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0 
+
+Medium:
+
+https://www.interviewbit.com/problems/capture-regions-on-board/ 
+
+LRU Caching: https://practice.geeksforgeeks.org/problems/lru-cache/1 
+
+Snake and Ladder: https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0 
+
+https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck/0 
+
+Hard:
+
+https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0 
+

@@ -1,0 +1,74 @@
+A (Undirected) Graph is a collection of V of vertices, and a collection of E of edges each of which connects a pair of vetices
+
+Loops connect a vertex to itself
+
+A graph can have multiple edges between same vertices
+
+If a graph isn't having loops and multiple edges it is simple.
+
+
+Most of graph algorithm's runtimes depend on |V| and |E|
+In dense graphs, |E|=|V|^2
+In sparse graphs, |E|=|V|
+
+
+PATHS
+We want to know what is reachable from a given vertex.
+A path in a graph G is a sequence of vertices v0,v1,...,vn
+so that for all i, (Vi,Vi+1) is an edge of G.
+
+
+For undirected graphs there is very clean categorization
+to check the reachablitiy of every node from every other 
+possible node
+
+The vertices of graph G can be partitioned into Connected
+components so that V is reachable from W iff they are in
+the same connected component
+
+A directed graph is a graph where each edge has a start vertex
+and an end vertex
+IF G(graph) contains a cycle, it cannot be linearly ordered 
+Any DAG can be linearly ordered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

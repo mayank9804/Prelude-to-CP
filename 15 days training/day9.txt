@@ -1,0 +1,56 @@
+Questions discussed in class:
+
+Postorder: https://www.interviewbit.com/problems/postorder-traversal/ 
+Inorder: https://www.interviewbit.com/problems/inorder-traversal/ 
+Preorder: https://www.interviewbit.com/problems/preorder-traversal/ 
+
+Level Order Traversal: https://practice.geeksforgeeks.org/problems/level-order-traversal/1 
+
+Reverse Level Order Traversal: https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1 
+
+Left View of Binary Tree: https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1 
+
+Bottom View of Binary Tree: https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1  
+
+Construct Tree from Inorder and Preorder: https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/ 
+
+Tree from Inorder and Postorder: https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/ 
+
+Mirror:  https://practice.geeksforgeeks.org/problems/mirror-tree/1 
+
+Full BT Check:  https://practice.geeksforgeeks.org/problems/full-binary-tree/1 
+
+Complete BT check: https://practice.geeksforgeeks.org/problems/complete-binary-tree/1 
+
+LCA: https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1 
+
+Diameter: https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
+
+
+Practice Problems:
+
+Easy:
+
+Count Leaves: https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1
+
+Depth: https://www.interviewbit.com/problems/max-depth-of-binary-tree/ 
+https://www.interviewbit.com/problems/min-depth-of-binary-tree/ 
+
+https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/ 
+
+https://www.interviewbit.com/problems/identical-binary-trees/ 
+
+https://www.interviewbit.com/problems/symmetric-binary-tree/ 
+
+Medium:
+
+Boundary Traversal: https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1 
+
+Check Path Sum: https://www.interviewbit.com/problems/path-sum/ 
+
+https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/ 
+
+https://www.interviewbit.com/problems/populate-next-right-pointers-tree/ 
+
+https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/ 
+

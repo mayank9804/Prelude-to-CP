@@ -1,0 +1,41 @@
+Questions discussed in class:
+
+Merge k sorted lists: https://www.interviewbit.com/problems/merge-k-sorted-lists/
+
+Huffman Encoding: https://practice.geeksforgeeks.org/problems/huffman-encoding/0 
+
+Activity Selection Problem: https://practice.geeksforgeeks.org/problems/activity-selection/0 
+
+Assign Mice To Holes: https://www.interviewbit.com/problems/assign-mice-to-holes/
+
+Bulbs: https://www.interviewbit.com/problems/bulbs/ 
+
+Candy Distribution: https://www.interviewbit.com/problems/distribute-candy/ 
+
+Problem for practice
+
+Easy
+
+N meetings in one room: https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0 
+
+Kth largest element in stream: https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0/?track=Placement 
+
+Stock Span Problem: https://practice.geeksforgeeks.org/problems/stock-span-problem/0 
+
+Pairwise Swap Linked List: https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1/?track=Placement 
+
+Medium:
+
+Minimum Cost of Ropes: https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0 
+
+Majority Element: https://www.interviewbit.com/problems/majority-element/
+
+Rat Maze Problem: https://practice.geeksforgeeks.org/problems/rat-maze-with-multiple-jumps/0 
+
+Reverse Linked List from m to n: https://www.interviewbit.com/problems/reverse-link-list-ii/ 
+
+Difficult:
+
+Median of a stream: https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
+
+Sudoku solver: https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0 

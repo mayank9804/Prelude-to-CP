@@ -1,0 +1,15 @@
+Permutations
+A permutation of a finite set S is an ordered sequence of all elements in S, with each element appearing exactly 
+once.
+
+A k-permutation of S is an ordered sequence of k elements of S, with no element appearing more than
+once in the sequence.
+
+Thus, an ordinary permuations is an n-permutation of an n-set.
+
+n!/(n-k)!
+
+Cominations
+
+A k-combination of an n-set S is simply a k-subset of S.
+n!/(n-k)!k!

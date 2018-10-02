@@ -1,0 +1,29 @@
+Questions discussed in class:
+Strings from phone digits: https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits/0
+Parenthesis generator: https://www.interviewbit.com/problems/generate-all-parentheses-ii/ 
+Subsets: https://practice.geeksforgeeks.org/problems/subsets/0
+Permutations of a string: https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0
+N Queen Problem: https://practice.geeksforgeeks.org/problems/n-queen-problem/0
+Intersection/Union of 2 sorted arrays: https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
+Remove element from array in place: https://www.interviewbit.com/problems/remove-element-from-array/ 
+Subarray with given sum (positives): https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0 
+
+Subarray with given sum (include negative numbers): https://practice.geeksforgeeks.org/problems/subarray-range-with-given-sum/0 
+Minimize Absolute Difference: https://www.interviewbit.com/problems/minimize-the-absolute-difference/
+
+
+Problem for practice
+
+Easy
+Remove Duplicate Elements (inplace): https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/ 
+Remove duplicates if they appear more than once (inplace):
+https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/ 
+Sort array of 0,1,2: https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0
+
+Medium:
+Combination Sum: https://practice.geeksforgeeks.org/problems/combination-sum/0
+Combination Sum 2: https://practice.geeksforgeeks.org/problems/combination-sum-part-2/0
+
+Difficult:
+Container with most water: https://leetcode.com/problems/container-with-most-water/description/ 
+Word Boggle: https://practice.geeksforgeeks.org/problems/word-boggle/0
