@@ -12,14 +12,41 @@ cin>>T;
 #define ci pair<char,int>
 #define pb push_back
 typedef unsigned long long ull;
-// [{4,1} {3,-1}]
-//[{7,1}{4,-1}]
-// [ {7,-1}{4,2}]
-// [{11,2}{7,-3}]
-// [{18,-3}{11,5}]
-// [{497,5}{18,-156}]
-// [{3000,-156}{497,-931}]
 
+int temp;
+int counter  = 0;
+vector<int>primeFactors;
+
+bool isPrime(int num){
+    if(num==1)
+        return false;
+    if(num==2 || num==3)
+        return true;
+    
+    for(int i=2;i*i<=num;i++){
+        if(num%i==0)
+            return false;
+    }
+    return true;
+}
+
+void getPrimeFactors(int d){
+    for(int i=2;i<=d;i++){
+        if(d%i==0 && isPrime(i)){
+            primeFactors.pb(i);
+            while(d%i==0)
+                d=d/i;
+        }
+    }
+}
+
+bool commonFactor(int temp){
+    for(int i=0;i<primeFactors.size();i++){
+        if(temp%primeFactors[i]==0)
+            return true;
+    }
+    return false;
+}
 vector<pair<int,int>>arr;
 void gcd(int a,int b){
     if(a%b==0)
@@ -38,22 +65,27 @@ void gcd(int a,int b){
             arr[0]=temp1;
             arr[1]=temp2;
         }
+        if(commonFactor(arr[0].second))
+            counter++;
+        if(commonFactor(arr[1].second))
+            counter++;
     }
 }
 
 int main(int argc, char const *argv[]){
 
+    FAST;
+    TEST;
     int a,b;
-    cin>>a>>b;
-    if(a<b){
-        int temp = a;
-        a = b;
-        b = temp;
+    while(T--){
+        primeFactors={};
+        cin>>a>>b;
+        temp = __gcd(a,b);
+        getPrimeFactors(temp);
+        counter = 0;
+        gcd(a,b);
+        cout<<counter<<"\n";
     }
-    gcd(a,b);
-    for(auto e:arr)
-        cout<<"Coefficient of : "<<e.first<<" "<<e.second<<"\n"; 
-    
     
     
     return 0;

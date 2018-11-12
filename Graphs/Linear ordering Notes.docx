@@ -1,0 +1,9 @@
+Find Sink
+Put at the end of order
+Remove from graph
+Repeat
+
+Topological Sort
+DFS(G)
+sort vertices by reverse post order
+
