@@ -30,8 +30,10 @@ void sieveOfEratosthenes(vector<pair<int,bool>>& primes,int MAX){
         primes[i].second = true;
     
     for(int i=2;i<MAX;i++)
-        for(int j=i+i;j<MAX;j+=i)
-            primes[j].second = false;
+        if(primes[i].second)
+            for(int j=i+i;j<MAX;j+=i)
+                primes[j].second = false;
+    
 }
 
 int main(int argc, char const *argv[]){

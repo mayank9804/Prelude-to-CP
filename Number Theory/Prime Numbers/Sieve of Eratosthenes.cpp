@@ -9,9 +9,10 @@ void sieveOfEratosthenes(vector<pair<int,bool>>& primes,int MAX){
     for(int i=2;i<MAX;i++)
         primes[i].second = true;
     
-    for(int i=2;i<MAX;i++)
-        for(int j=i+i;j<MAX;j+=i)
-            primes[j].second = false;
+    for(int i=3;i*i<=MAX;i++)
+        if(primes[i].second)
+            for(int j=i+i;j<MAX;j+=i)
+                primes[j].second = false;
 }
 
 int main(int argc, char const *argv[]){
@@ -19,9 +20,21 @@ int main(int argc, char const *argv[]){
     vector<pair<int,bool>>primes(MAX);
     sieveOfEratosthenes(primes,MAX);
     // Check whether 5,7,10 are primes
-    cout<<primes[5].second<<"\n";
-    cout<<primes[7].second<<"\n";
-    cout<<primes[10].second<<"\n";
+    int T,N;
+    cin>>T;
+    while(T--){
+        cin>>N;
+        int count = 0;
+        int i=0;
+        while(count!=N){
+            if(primes[i])
+                count++;
+            if(count==N)
+                break;
+            i++;
+        }
+        cout<<i*i+1<<'\n';
+    }
 
     
     return 0;

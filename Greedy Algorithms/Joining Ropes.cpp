@@ -12,18 +12,17 @@ int main(int argc, char const *argv[]){
     }
     int sum=0;
     
-    while(!arr.empty()){
+    while(arr.size()>1){
         int fmini,smin;
         fmini=smin=0;
         fmini = arr.top();
         arr.pop();
-        if(!arr.empty()){
-            smin = arr.top();
-            arr.pop();
-        }
+        smin = arr.top();
+        arr.pop();
+        
         sum+=(fmini+smin);
-        if(arr.size()!=0)
-            arr.push(fmini+smin);
+        
+        arr.push(fmini+smin);
     }   
     cout<<sum;
     return 0;

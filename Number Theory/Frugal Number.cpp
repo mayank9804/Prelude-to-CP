@@ -26,17 +26,13 @@ vector<bool> sieve(int LIMIT){
 }
 
 int countDigs(int N){
-    int ctr = 0;
-    while(N>0){
-        N=N/10;
-        ctr++;
-    }
-    return ctr;
+    return to_string(N).size();
 }
 int main(int argc, char const *argv[]){
 
     int N;
     cin>>N;
+    
     int digsNum = countDigs(N);
     int facNums=0;
     vector<bool>primes = sieve(N);
