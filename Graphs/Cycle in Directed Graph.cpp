@@ -54,17 +54,17 @@ void Graph::isCyclic(){
     cout<<"No cycle detected\n";
 }
 int main(int argc, char const *argv[]){
-    Graph g(4); 
-    // g.addEdge(0, 1);
-    // g.addEdge(0, 2); 
-    // g.addEdge(1, 0); 
+    Graph g(3); 
+    g.addEdge(0, 1);
+    g.addEdge(2, 0); 
+    g.addEdge(1, 2); 
     // g.addEdge(2, 0); 
     // g.addEdge(2, 3); 
     // g.addEdge(1, 3);
     // g.addEdge(1, 2);
-    g.addEdge(0,1);
-    g.addEdge(2,3);
-    g.addEdge(1,0);
+    // g.addEdge(0,1);
+    // g.addEdge(2,3);
+    // g.addEdge(1,0);
     // if(g.isCyclic()) 
     //     cout << "Graph contains cycle"; 
     // else
