@@ -28,7 +28,6 @@ int getMax(){
 void extractMax(){
     if(ARR.size()<=1)
         return ;
-    
     swap(ARR[ARR.size()-1],ARR[1]);
     ARR.pop_back();
     int ind = 1;
@@ -46,6 +45,7 @@ void extractMax(){
         swap(ARR[ind],ARR[2*ind]);
     }
 }
+
 void heapSort(){
     int xx = 1;
     while(1){
@@ -62,9 +62,9 @@ void heapifyUtil(){
         heapify(i);
     }
 }
+
 int main(int argc, char const *argv[]){
     
-
     int N;
     cin>>N;
     ARR.resize(N+1);

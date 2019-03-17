@@ -28,7 +28,8 @@ double Employee::getSalary() const{
 }
 bool Employee::operator<=(Employee obj) const{
     return salary<=obj.salary;
-}
+}// Write a function that define the operator
+
 
 // Using available public functions
 bool operator<=(double d,Employee const& obj){

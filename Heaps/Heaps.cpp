@@ -92,8 +92,7 @@ int main(int argc, char const *argv[]){
                 display();
                 break;
             default:
-                break;
-            
+                break;         
         }
     }
     return 0;
