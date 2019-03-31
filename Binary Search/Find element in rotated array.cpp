@@ -10,9 +10,13 @@ int bin(int l,int r,int val,vector<int>&ARR){
     if(ARR[mid]==val)
         return mid;
     else if(ARR[mid]<val){
-        return bin(mid+1,r,val,ARR);
+        if(val<=ARR[r] && ARR[mid] <= ARR[r]){
+            return bin(mid+1,r,val,ARR);
+        }else{
+            return bin(l,mid-1,val,ARR);
+        }
     }else if(ARR[mid]>val){
-        if(val>ARR[ARR.size()-1] || ARR[mid] < ARR[ARR.size()-1]){
+        if(val>=ARR[r] || ARR[mid] < ARR[r]){
             return bin(l,mid-1,val,ARR);
         }else{
             return bin(mid+1,r,val,ARR);

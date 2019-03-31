@@ -15,13 +15,13 @@ int main(){
     // [L,R)
     // returns first val greater or equal than elem..
     // returns last iterator if lower bound of elem does not exists 
-    cout<<lower_bound(ARR.begin(),ARR.end(),5)-ARR.begin();
+    cout<<*lower_bound(ARR.begin(),ARR.end(),4);
     cout<<'\n';
     // upper_bound(L,R,elem)
     // [L,R)
     // return first val greater than elem
     // returns last iterator if lower bound of elem does not exists 
-    cout<<upper_bound(ARR.begin(),ARR.end(),10)-ARR.begin();
+    cout<<upper_bound(ARR.begin(),ARR.end(),4)-ARR.begin();
     cout<<'\n';
 
 
